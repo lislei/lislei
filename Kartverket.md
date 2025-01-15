@@ -1,4 +1,4 @@
-To get up to speed in a giff i have thease pointers:
+To get up to speed in a giffy I have some pointers:
 
  * Dashlane Password Manager
  * [GitHub](https://github.com/kartverket) - link private github account
