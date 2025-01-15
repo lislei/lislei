@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 Current tools:
+  - Ubuntu noble - 24.04
+  - `sudo apt update & apt upgrade`
+  - `sudo apt install openjdk-17-jdk-headless -y`
+  - `sudo apt install git -y`
+  - IntelliJ IDEA Ultimate (App center ~ http://lisens.statkart.no:8081)
+  - DBeaver CE (App center ~ Apache License 2.0)
+  - Slack (App center ~ Proprietary)
+  - Others:
+    - `sudo apt-get install -y ffmpeg` (to watch videos in browser)
+      
+💾 Git config
+```
+FULLNAME="Leif Lislegard"
+sudo apt-get install git -y
+git config --global user.name "$FULLNAME"
+git config --global user.email "$USERNAME@kartverket.no"
+echo "git config:" && git config --list
+```
