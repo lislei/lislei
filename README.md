@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   - IntelliJ IDEA Ultimate (App center ~ http://lisens.statkart.no:8081)
   - DBeaver CE (App center ~ Apache License 2.0)
   - Slack (App center ~ Proprietary)
+  - Teams-for-linux (App center ~ GPL-3.0)
   - Others:
     - `sudo apt-get install -y ffmpeg` (to watch videos in browser)
       
