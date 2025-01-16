@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 💻 Current tools:
   - Ubuntu noble - 24.04
   - `sudo apt update & apt upgrade`
-  - `sudo apt install openjdk-17-jdk-headless -y`
+  - `sudo apt install openjdk-17-jdk -y`
   - `sudo apt install git -y`
   - IntelliJ IDEA Ultimate (App center ~ http://lisens.statkart.no:8081)
   - DBeaver CE (App center ~ Apache License 2.0)
