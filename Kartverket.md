@@ -8,7 +8,7 @@ To get up to speed in a giffy I have some pointers:
  * [Kartverket.dev](https://kartverket.dev/) - SSO/AD
  * [Kartverket.dev - matrikkel](https://kartverket.dev/catalog/default/component/matrikkel)
  * [Webmail](https://outlook.office.com/mail/) - SSO/AD
- * []()
+ * [Service-portal](https://kartverket.pureservice.com/) - SSO/AD
  * []()
  * []()
  * []()
