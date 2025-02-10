@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   - DBeaver CE (App center ~ Apache License 2.0)
   - Slack (App center ~ Proprietary)
   - Teams-for-linux (App center ~ GPL-3.0)
+  - [Docker Engine](https://docs.docker.com/engine/install/ubuntu/) (APT ~ Apache License 2.0)
   - Others:
     - `sudo apt-get install -y ffmpeg` (to watch videos in browser)
       
