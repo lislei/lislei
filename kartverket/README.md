@@ -17,6 +17,6 @@ Ubuntu 24.04 config:
  * [Disable CTRL+SHIFT+U to enter unicode char](https://superuser.com/questions/358749/how-to-disable-ctrlshiftu/1392682#1392682) as this is the shortcut for uppercase in IntelliJ.
    * `gsettings set org.freedesktop.ibus.panel.emoji unicode-hotkey "@as []"`
 * Set up VPN
-  * `wget https://raw.githubusercontent.com/lislei/lislei/refs/heads/main/karverket/kv-ovpn.ovpn`
+  * `wget https://raw.githubusercontent.com/lislei/lislei/refs/heads/main/kartverket/kv-ovpn.ovpn`
   * `nmcli connection import type openvpn file kv-ovpn.ovpn`
   * `nmcli connection modify "kv-ovpn" +vpn.data username="${USERNAME}"`
