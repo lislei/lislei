@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋, I'm Leif Lislegard
+💻 Software Engineer | Full Stack Developer 👨‍💻 | Security Champion 🏆
+
+## 🚀 About Me
+- 🎓 Computer Engineering graduate with a passion for **secure coding** and **software delivery pipeline**
+- 🔭 Currently working on: **The Norwegian Cadastre (Matrikkelen)**
+- 🌱 Learning: **GCP/Kubernetes, GitHub, and advanced system design**
+- 💼 Open to opportunities in **full stack / backend engineering / data science**
+
 
 <!--
 **lislei/lislei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
