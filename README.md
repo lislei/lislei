@@ -8,6 +8,24 @@
 - 💼 Open to opportunities in **full stack / backend engineering / data science**
 
 
+## 🛠️ Tech Stack
+
+**Languages**  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=black)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?logo=gnu-bash&logoColor=black)
+
+**Frameworks**  
+![Jakarta EE](https://img.shields.io/badge/-Jakarta%20EE-232F3E?logo=eclipse&logoColor=black)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=black)  
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=black)
+
+**Cloud & DevOps**  
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=black)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=black)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-FE4B00?logo=argo&logoColor=black)
+
 <!--
 **lislei/lislei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
