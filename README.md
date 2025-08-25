@@ -1,5 +1,8 @@
 ## Hi there 👋, I'm Leif Lislegard
-💻 Software Engineer | Full Stack Developer 👨‍💻 | Security Champion 🏆
+![Software Engineer](https://img.shields.io/badge/Software%20Engineer-blue) 
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-blue)
+![Security Champion](https://img.shields.io/badge/Security%20Champion-red)
+![Hits](https://hits.sh/github.com/lislei/hits.svg?label=Hits&extraCount=100)
 
 ## 🚀 About Me
 - 🎓 Computer Engineering graduate with a passion for **secure coding** and **software delivery pipeline**
@@ -14,6 +17,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?logo=gnu-bash&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-%230077B5?style=flat&logo=markdown&logoColor=black)
 
 **Frameworks**  
 ![Jakarta EE](https://img.shields.io/badge/-Jakarta%20EE-232F3E?logo=eclipse&logoColor=black)
