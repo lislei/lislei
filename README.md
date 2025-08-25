@@ -15,8 +15,13 @@
 
 **Languages**  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=oracle&logoColor=black)
+![PL/SQL](https://img.shields.io/badge/PL--SQL-orange?style=flat&logo=oracle&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=black)
+![Groovy](https://img.shields.io/badge/Groovy-E69F0D?style=flat&logo=apachegroovy)
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat&logo=kotlin)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?logo=gnu-bash&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=green)
 ![Markdown](https://img.shields.io/badge/Markdown-%230077B5?style=flat&logo=markdown&logoColor=black)
 
 **Frameworks**  
