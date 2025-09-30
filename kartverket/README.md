@@ -1,6 +1,7 @@
 To get up to speed in a giffy I have some pointers:
 
  * Dashlane Password Manager
+ * [jit.skip](https://jit.skip.kartverket.no/)
  * [GitHub](https://github.com/kartverket) - link private github account
  * [Confluence](https://kartverket.atlassian.net/wiki/) - sign in with email
  * [JIRA](https://kartverket.atlassian.net/jira) - sign in with email
@@ -9,7 +10,6 @@ To get up to speed in a giffy I have some pointers:
  * [Kartverket.dev - matrikkel](https://kartverket.dev/catalog/default/component/matrikkel)
  * [Webmail](https://outlook.office.com/mail/) - SSO/AD
  * [Service-portal](https://kartverket.pureservice.com/) - SSO/AD
- * []()
  * []()
  * []()
 
