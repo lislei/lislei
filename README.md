@@ -35,6 +35,11 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=black)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-FE4B00?logo=argo&logoColor=black)
 
+
+**API**
+![SoapUI](https://img.shields.io/badge/SoapUI-black?logo=soapui&logoColor=black)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-black?logo=owasp&logoColor=black)
+
 <!--
 **lislei/lislei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,6 +62,7 @@ Here are some ideas to get you started:
   - `sudo apt install openjdk-21-jdk -y`
   - `sudo apt install git -y`
   - IntelliJ IDEA Ultimate (App center ~ http://lisens.statkart.no:8081)
+  - [SOAP UI](https://www.soapui.org/getting-started/installing-soapui/installing-on-linux-or-unix/)
   - DBeaver CE (App center ~ Apache License 2.0)
   - Slack (App center ~ Proprietary)
   - Teams-for-linux (App center ~ GPL-3.0)
