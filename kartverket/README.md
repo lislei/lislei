@@ -10,7 +10,7 @@ To get up to speed in a giffy I have some pointers:
  * [Kartverket.dev - matrikkel](https://kartverket.dev/catalog/default/component/matrikkel)
  * [Webmail](https://outlook.office.com/mail/) - SSO/AD
  * [Service-portal](https://kartverket.pureservice.com/) - SSO/AD
- * []()
+ * [BookStack](https://dokuhylla.statkart.no/) -  
  * []()
 
 Ubuntu 24.04 config:
