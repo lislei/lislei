@@ -11,7 +11,7 @@ To get up to speed in a giffy I have some pointers:
  * [Webmail](https://outlook.office.com/mail/) - SSO/AD
  * [Service-portal](https://kartverket.pureservice.com/) - SSO/AD
  * [BookStack](https://dokuhylla.statkart.no/) -  
- * []()
+ * [smb://statkart.no/fellesdata](fellesdata - H:disk)
 
 Ubuntu 24.04 config:
  * [Disable CTRL+SHIFT+U to enter unicode char](https://superuser.com/questions/358749/how-to-disable-ctrlshiftu/1392682#1392682) as this is the shortcut for uppercase in IntelliJ.
