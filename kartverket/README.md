@@ -1,6 +1,7 @@
 To get up to speed in a giffy I have some pointers:
 
  * Dashlane Password Manager
+ * [Cloud control](https://nnrimg022.statkart.no:7803/em/)
  * [jit.skip](https://jit.skip.kartverket.no/)
  * [GitHub](https://github.com/kartverket) - link private github account
  * [Confluence](https://kartverket.atlassian.net/wiki/) - sign in with email
@@ -11,7 +12,7 @@ To get up to speed in a giffy I have some pointers:
  * [Webmail](https://outlook.office.com/mail/) - SSO/AD
  * [Service-portal](https://kartverket.pureservice.com/) - SSO/AD
  * [BookStack](https://dokuhylla.statkart.no/) -  
- * [smb://statkart.no/fellesdata](fellesdata - H:disk)
+ * [fellesdata - H:disk](smb://statkart.no/fellesdata)
 
 Ubuntu 24.04 config:
  * [Disable CTRL+SHIFT+U to enter unicode char](https://superuser.com/questions/358749/how-to-disable-ctrlshiftu/1392682#1392682) as this is the shortcut for uppercase in IntelliJ.
