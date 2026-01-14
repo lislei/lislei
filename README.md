@@ -62,7 +62,8 @@ Here are some ideas to get you started:
   - `sudo apt install openjdk-21-jdk -y`
   - `sudo apt install git -y`
   - `sudo apt-get install git-lfs && git lfs install`
-  - IntelliJ IDEA Ultimate (App center ~ http://lisens.statkart.no:8081)
+  - IntelliJ IDEA Ultimate (App center)
+  - JetBrains Toolbox App ~ https://jetbrains.kartverket.dev
   - [SOAP UI](https://www.soapui.org/getting-started/installing-soapui/installing-on-linux-or-unix/)
   - DBeaver CE (App center ~ Apache License 2.0)
   - Slack (App center ~ Proprietary)
