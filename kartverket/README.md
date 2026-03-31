@@ -21,3 +21,13 @@ Ubuntu 24.04 config:
   * `wget https://raw.githubusercontent.com/lislei/lislei/refs/heads/main/kartverket/kv-ovpn.ovpn`
   * `nmcli connection import type openvpn file kv-ovpn.ovpn`
   * `nmcli connection modify "kv-ovpn" +vpn.data username="${USERNAME}"`
+* Lokal utvikling Heimdall
+  * `nano ~/.bashrc`
+```shell 
+#
+# Heimdall local dev
+#
+export GITHUB_USER="$(printf 'protocol=https\nhost=github.com\n' | git credential fill | grep '^username=' | cut -d= -f2)"
+export PACKAGES_TOKEN="$(printf 'protocol=https\nhost=github.com\n' | git credential fill | grep '^password=' | cut -d= -f2)"
+```
+
