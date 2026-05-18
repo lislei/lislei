@@ -80,3 +80,16 @@ git config --global user.name "$FULLNAME"
 git config --global user.email "$USERNAME@kartverket.no"
 echo "git config:" && git config --list
 ```
+💾 Git signed commits
+```
+gpg --quick-generate-key "$(git config user.name) <$(git config user.email)>" RSA default never
+echo "☝️Copy name of generated key; i.e 3AA5C3437156XXXX" 
+
+git config --global user.signingkey 3AA5C3437156XXXX
+git config --global commit.gpgsign true   # always sign (automatically)
+
+gpg --armor --export "$(git config user.name)"
+
+echo "☝️Add above signature to GitHub profile etc."
+```
+
