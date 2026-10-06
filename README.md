@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   - Ubuntu noble - 24.04
   - `sudo apt update & apt upgrade`
   - `sudo apt install openjdk-17-jdk -y`
-  - `sudo apt install openjdk-21-jdk -y`
+  - `sudo apt install openjdk-25-jdk -y`
   - `sudo apt install git -y`
   - `sudo apt-get install git-lfs && git lfs install`
   - IntelliJ IDEA Ultimate (App center)
