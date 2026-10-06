@@ -93,3 +93,5 @@ gpg --armor --export "$(git config user.name)"
 echo "☝️Add above signature to GitHub profile etc."
 ```
 
+💾 Java config
+- `sudo update-alternatives --config java`
