@@ -62,6 +62,7 @@ Here are some ideas to get you started:
   - `sudo apt install openjdk-25-jdk -y`
   - `sudo apt install git -y`
   - `sudo apt-get install git-lfs && git lfs install`
+  - AI sandbox ~ https://github.com/navikt/cplt
   - IntelliJ IDEA Ultimate (App center)
   - JetBrains Toolbox App ~ https://jetbrains.kartverket.dev
   - [SOAP UI](https://www.soapui.org/getting-started/installing-soapui/installing-on-linux-or-unix/)
