@@ -66,6 +66,7 @@ Here are some ideas to get you started:
   - Bun ~ [bun.sh](https://bun.sh/)
   - GitHub CLI ~ [github.com/cli/cli](https://github.com/cli/cli/blob/trunk/docs/install_linux.md)
   - Copilot CLI ~ `gh copilot` [docs.github.com/en/copilot](https://docs.github.com/en/copilot)
+  - `curl -sSL https://aka.ms/apm-unix | sh` ~ [APM](https://github.com/microsoft/apm)
   - IntelliJ IDEA Ultimate (App center)
   - JetBrains Toolbox App ~ https://jetbrains.kartverket.dev
   - [SOAP UI](https://www.soapui.org/getting-started/installing-soapui/installing-on-linux-or-unix/)
