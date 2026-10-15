@@ -64,7 +64,8 @@ Here are some ideas to get you started:
   - `sudo apt-get install git-lfs && git lfs install`
   - AI sandbox ~ [github.com/navikt/cplt](https://github.com/navikt/cplt#apt-debianubuntu-recommended-on-linux)
   - Bun ~ [bun.sh](https://bun.sh/)
-  - Copilot CLI ~ [docs.github.com/en/copilot](https://docs.github.com/en/copilot)
+  - GitHub CLI ~ [github.com/cli/cli](https://github.com/cli/cli/blob/trunk/docs/install_linux.md)
+  - Copilot CLI ~ `gh copilot` [docs.github.com/en/copilot](https://docs.github.com/en/copilot)
   - IntelliJ IDEA Ultimate (App center)
   - JetBrains Toolbox App ~ https://jetbrains.kartverket.dev
   - [SOAP UI](https://www.soapui.org/getting-started/installing-soapui/installing-on-linux-or-unix/)
