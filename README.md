@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   - `gh copilot` ~ [Copilot CLI](https://docs.github.com/en/copilot)
   - `curl -sSL https://aka.ms/apm-unix | sh` ~ [APM](https://github.com/microsoft/apm) ~ MIT License
   - IntelliJ IDEA Ultimate (App center)
-  - JetBrains Toolbox App ~ https://jetbrains.kartverket.dev
+  - JetBrains Toolbox App ~ License server: https://jetbrains.kartverket.dev - [HOWTO](https://www.jetbrains.com/help/ide-services/Activating_a_license.html)
   - [SOAP UI](https://www.soapui.org/getting-started/installing-soapui/installing-on-linux-or-unix/)
   - DBeaver CE (App center ~ Apache License 2.0)
   - Slack (App center ~ Proprietary)
