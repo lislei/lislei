@@ -15,7 +15,7 @@ To get up to speed in a giffy I have some pointers:
  * [fellesdata - H:disk](smb://statkart.no/fellesdata)
  * [PrivateBin](https://privatebin.atkv3-dev.kartverket-intern.cloud)
 
-Ubuntu 24.04 config:
+Ubuntu 26.04 config:
  * [Disable CTRL+SHIFT+U to enter unicode char](https://superuser.com/questions/358749/how-to-disable-ctrlshiftu/1392682#1392682) as this is the shortcut for uppercase in IntelliJ.
    * `gsettings set org.freedesktop.ibus.panel.emoji unicode-hotkey "@as []"`
 * Set up VPN

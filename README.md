@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 -->
 
 💻 Current tools:
-  - Ubuntu noble - 24.04
+  - Ubuntu resolute - 26.04.1 LTS
   - `sudo apt update & apt upgrade`
   - `sudo apt install openjdk-17-jdk -y`
   - `sudo apt install openjdk-25-jdk -y`
@@ -88,15 +88,16 @@ echo "git config:" && git config --list
 💾 Git signed commits
 ```
 gpg --quick-generate-key "$(git config user.name) <$(git config user.email)>" RSA default never
-echo "☝️Copy name of generated key; i.e 3AA5C3437156XXXX" 
 
-git config --global user.signingkey 3AA5C3437156XXXX
+#☝️️️️Copy name of generated key into variable; i.e 
+export PUB_KEY_NAME=3AA5C3437156XXXX
+
+git config --global user.signingkey $PUB_KEY_NAME
 git config --global commit.gpgsign true   # always sign (automatically)
 
 gpg --armor --export "$(git config user.name)"
-
-echo "☝️Add above signature to GitHub profile etc."
 ```
+☝️Add above signature to [GitHub profile](https://github.com/settings/keys) etc.
 
 💾 Java config
 - `sudo update-alternatives --config java`
