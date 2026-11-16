@@ -1,5 +1,6 @@
 To get up to speed in a giffy I have some pointers:
 
+ * [Argo CD](https://argo.kartverket.dev/) - SSO/AD
  * Dashlane Password Manager
  * [Cloud control](https://nnrimg022.statkart.no:7803/em/)
  * [jit.skip](https://jit.skip.kartverket.no/)
