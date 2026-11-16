@@ -23,7 +23,10 @@ Ubuntu 26.04 config:
   * `wget https://raw.githubusercontent.com/lislei/lislei/refs/heads/main/kartverket/kv-ovpn.ovpn`
   * `nmcli connection import type openvpn file kv-ovpn.ovpn`
   * `nmcli connection modify "kv-ovpn" +vpn.data username="${USERNAME}"`
-* Lokal utvikling Heimdall
+* DHI
+  * `docker login dhi.io -u lisleikv`
+
+Lokal utvikling Heimdall
   * `nano ~/.bashrc`
 ```shell 
 #
