@@ -74,6 +74,7 @@ Here are some ideas to get you started:
   - Slack (App center ~ Proprietary)
   - Teams-for-linux (App center ~ GPL-3.0)
   - [Docker Engine](https://docs.docker.com/engine/install/ubuntu/) (APT ~ Apache License 2.0)
+    - `sudo usermod -aG docker $USER #Running docker without sudo (IntelliJ) PS: Login again or restart Ubuntu to effectiate`
   - Others:
     - `sudo apt-get install -y ffmpeg` (to watch videos in browser)
       
