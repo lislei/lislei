@@ -2,8 +2,9 @@ To get up to speed in a giffy I have some pointers:
 
  * [Argo CD](https://argo.kartverket.dev/) - SSO/AD
  * Dashlane Password Manager
- * [Cloud control](https://nnrimg022.statkart.no:7803/em/)
- * [jit.skip](https://jit.skip.kartverket.no/)
+ * [Oracle Cloud Control](https://nnrimg022.statkart.no:7803/em/)
+ * [Cloud Google Cloud](https://console.cloud.google.com/)
+   * [GSM - PAM](https://console.cloud.google.com/iam-admin/pam/entitlements/my?project=matrikkel-prod-91b2)
  * [GitHub](https://github.com/kartverket) - link private github account
  * [Confluence](https://kartverket.atlassian.net/wiki/) - sign in with email
  * [JIRA](https://kartverket.atlassian.net/jira) - sign in with email
