@@ -31,9 +31,17 @@ Lokal utvikling Heimdall
   * `nano ~/.bashrc`
 ```shell 
 #
-# Heimdall local dev
+# Heimdall local dev (terminal)
 #
 export GITHUB_USER="$(printf 'protocol=https\nhost=github.com\n' | git credential fill | grep '^username=' | cut -d= -f2)"
 export PACKAGES_TOKEN="$(printf 'protocol=https\nhost=github.com\n' | git credential fill | grep '^password=' | cut -d= -f2)"
+```
+  * `nano ~/.profile`
+```shell 
+#
+# Heimdall local dev (desktop/IntelliJ)
+#
+export GITHUB_USER=lislei
+export PACKAGES_TOKEN=ghp_***
 ```
 
